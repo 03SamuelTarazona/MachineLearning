@@ -5,7 +5,7 @@
 - Julian Andres Leon Montoya
 
 **Enlace repositorio**
-https://github.com/03SamuelTarazona/MachineLearning
+- https://github.com/03SamuelTarazona/MachineLearning
 ---
 
 ## 📖 Resumen / propósito
