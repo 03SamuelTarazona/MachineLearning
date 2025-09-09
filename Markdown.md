@@ -1,8 +1,11 @@
-# 📌 Código para Regresión Logística
+# Código para Regresión Logística
 
 **Realizado por:**  
 - Samuel Leonardo Tarazona Arciniegas  
 - Julian Andres Leon Montoya
+
+**Enlace repositorio**
+https://github.com/03SamuelTarazona/MachineLearning
 ---
 
 ## 📖 Resumen / propósito
